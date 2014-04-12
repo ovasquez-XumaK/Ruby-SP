@@ -38,11 +38,11 @@ class Match < ActiveRecord::Base
   end
 
   def match_in_the_same_date_at_the_same_stadium
-    
+    #FALTA
   end
 
   def team_play_two_or_more_games_in_the_same_date
-    
+    #FALTA
   end
 
 end
